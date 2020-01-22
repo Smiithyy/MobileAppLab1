@@ -1,0 +1,12 @@
+var isDone = false;
+console.log("Colleege work done?" + isDone);
+var double = 123.321;
+console.log("Number is: " + double);
+var bandName = "Peasant to a King";
+console.log("My band is called " + bandName);
+var list = [1, 2, 3, 4, 5];
+console.log("My array consists of" + list);
+var anything = 7;
+console.log("Useing any to store a number: " + anything);
+anything = "Hello, my name is Evan";
+console.log("Using any to hold a string: " + anything);
